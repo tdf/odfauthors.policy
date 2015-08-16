@@ -1,0 +1,17 @@
+README.txt
+setup.cfg
+setup.py
+src/odfauthors/__init__.py
+src/odfauthors.policy.egg-info/PKG-INFO
+src/odfauthors.policy.egg-info/SOURCES.txt
+src/odfauthors.policy.egg-info/dependency_links.txt
+src/odfauthors.policy.egg-info/entry_points.txt
+src/odfauthors.policy.egg-info/namespace_packages.txt
+src/odfauthors.policy.egg-info/not-zip-safe
+src/odfauthors.policy.egg-info/paster_plugins.txt
+src/odfauthors.policy.egg-info/requires.txt
+src/odfauthors.policy.egg-info/top_level.txt
+src/odfauthors/policy/__init__.py
+src/odfauthors/policy/testing.py
+src/odfauthors/policy/tests/__init__.py
+src/odfauthors/policy/tests/test_example.py

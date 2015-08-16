@@ -1,0 +1,13 @@
+setuptools
+Plone
+Pillow
+am.odfauthorstheme
+Products.DocFinderTab
+Products.ArchAddOn
+Products.AddRemoveWidget
+Products.DataGridField
+Products.LinguaPlone
+atreal.usersinout
+
+[test]
+plone.app.testing
